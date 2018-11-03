@@ -31,7 +31,7 @@
         <artifactId>java-design-patterns</artifactId>
         <version>1.21.0-SNAPSHOT</version>
     </parent>
-    <artifactId>repository</artifactId>
+    <artifactId>testingrepo</artifactId>
     <dependencies>
         <dependency>
             <groupId>com.github.sbrannen</groupId>
